@@ -92,6 +92,11 @@
           {
             "name": "From AngularJS",
             "id": "migration-angularjs"
+          },
+          {
+            "name": "Preserving Git Histories",
+            "id": "preserving-git-histories",
+            "file": "shared/migration/preserving-git-histories"
           }
         ]
       },
@@ -454,6 +459,11 @@
                     "file": "angular/api-react/schematics/redux"
                   },
                   {
+                    "name": "stories",
+                    "id": "stories",
+                    "file": "angular/api-react/schematics/stories"
+                  },
+                  {
                     "name": "storybook-configuration",
                     "id": "storybook-configuration",
                     "file": "angular/api-react/schematics/storybook-configuration"
@@ -760,6 +770,11 @@
                 "name": "Run Commands Builder",
                 "id": "run-commands-builder",
                 "file": "shared/running-custom-commands"
+              },
+              {
+                "name": "Creating Custom Builders",
+                "id": "creating-custom-builders",
+                "file": "shared/tools-workspace-builders"
               }
             ]
           },
@@ -988,6 +1003,11 @@
           {
             "name": "From CRA",
             "id": "migration-cra"
+          },
+          {
+            "name": "Preserving Git Histories",
+            "id": "preserving-git-histories",
+            "file": "shared/migration/preserving-git-histories"
           }
         ]
       },
@@ -1350,6 +1370,11 @@
                     "file": "react/api-react/schematics/redux"
                   },
                   {
+                    "name": "stories",
+                    "id": "stories",
+                    "file": "react/api-react/schematics/stories"
+                  },
+                  {
                     "name": "storybook-configuration",
                     "id": "storybook-configuration",
                     "file": "react/api-react/schematics/storybook-configuration"
@@ -1656,6 +1681,11 @@
                 "name": "Run Commands Builder",
                 "id": "run-commands-builder",
                 "file": "shared/running-custom-commands"
+              },
+              {
+                "name": "Creating Custom Builders",
+                "id": "creating-custom-builders",
+                "file": "shared/tools-workspace-builders"
               }
             ]
           },
